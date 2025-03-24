@@ -19,3 +19,5 @@ This repository contains implementations of various **Machine Learning (ML) mode
 - Clone the repository:  
   ```bash
   git clone https://github.com/SinghSyntax001/Machine_Learning.git
+
+## Note: This toolkit will only work on the dataset where features are in first columns and dependent variables in the last, to let it work on vice-versa dataset you have to apply some datapreprocessing or one-hot encoding techniques.
